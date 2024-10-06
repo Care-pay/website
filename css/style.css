@@ -365,6 +365,22 @@ a:focus {
   color: #353434;
 }
 
+
+.read-more{
+  display: inline-block;
+  padding: 8px 30px;
+  background-color: #353434;
+  border: 1px solid #353434;
+  color: #ffffff;
+  border-radius: 20px 20px 0 20px;
+  margin-top: 35px;
+}
+
+.read-more:hover {
+  background-color: transparent;
+  color: #353434;
+}
+
 .work_section .work_container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -755,4 +771,89 @@ a:focus {
 
 #scrollToTopBtn:hover {
   background-color: #555; /* Darker background on hover */
+}
+
+
+/* Pitch section  */
+
+
+.pitch-container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+}
+
+.pitch-section {
+  display: flex;
+  align-items: flex-start;
+  /* margin-bottom: 50px; */
+}
+
+.pitch-image-section img {
+  max-width: 100%;
+  border-radius: 8px;
+  width: 400px;
+}
+
+.pitch-description-section {
+  margin-left: 20px;
+  flex: 1;
+}
+
+.pitch-description-section h2 {
+  color: #122B8A;
+  /* margin-bottom: 10px; */
+}
+
+.pitch-description-section p {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.pitch-description-section a {
+  display: inline-block;
+  color: #33723A;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.pitch-description-section a:hover {
+  text-decoration: underline;
+}
+
+/* Continuous vertical line */
+.pitch-divider {
+  width: 2px;
+  background-color: #33723A;
+  /* height: 400px; */
+  height: 300px;
+  margin: 0 20px;
+  position: relative;
+}
+
+/* Bullet points on the divider */
+.pitch-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #33723A;
+  border-radius: 50%;
+  position: absolute;
+  left: -5px;
+}
+
+.pitch-bullet.top {
+  top: 25%;
+}
+
+.pitch-bullet.bottom {
+  top: 75%;
+}
+
+/* Ensuring the divider stays continuous without interruptions */
+.pitch-section-container {
+  /* position: relative; */
 }

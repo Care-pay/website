@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 2200 1237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_4"><path d="M-.2 1237.8V-.2H2200.3v1238Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_4{
+fill: #FFF;
+}
+.g1_4{
+fill: #F6F6F6;
+}
+.g2_4{
+fill: #EAE4D2;
+}
+.g3_4{
+fill: #17726D;
+}
+.g4_4{
+fill: none;
+stroke: #F6F6F6;
+stroke-width: 114.583;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g5_4{
+fill: #00F;
+}
+.g6_4{
+fill: none;
+stroke: #17726D;
+stroke-width: 9.166;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_4)">
+<path fill-rule="evenodd" d="M0 1237.5H2200V0H0V1237.5Z" class="g0_4"/>
+<path fill-rule="evenodd" d="M1519.4 1237.5H2200V0H1519.4V1237.5Z" class="g1_4"/>
+</g>
+<path fill-rule="evenodd" d="M150.1 293.3C121 293.3 97.4 316.9 97.4 346c0 29.1 23.6 52.8 52.7 52.8c29.1 0 52.7 -23.7 52.7 -52.8c0 -29.1 -23.6 -52.7 -52.7 -52.7Z" class="g2_4"/>
+<path fill-rule="evenodd" d="M155.8 754c-29.1 0 -52.7 23.6 -52.7 52.7c0 29.1 23.6 52.7 52.7 52.7c29.1 0 52.7 -23.6 52.7 -52.7C208.5 777.6 184.9 754 155.8 754Z" class="g2_4"/>
+<path fill-rule="evenodd" d="M1184.8 754c-29.1 0 -52.7 23.6 -52.7 52.7c0 29.1 23.6 52.7 52.7 52.7c29.1 0 52.7 -23.6 52.7 -52.7c0 -29.1 -23.6 -52.7 -52.7 -52.7Z" class="g2_4"/>
+<path fill-rule="evenodd" d="M2093.4 230.3h104.3V0H2093.4V230.3Z" class="g3_4"/>
+<g clip-path="url(#c0_4)">
+<path d="M101.4 967.1c-126.1 0 -228.5 102.3 -228.5 228.6c0 126.2 102.4 228.6 228.5 228.6c126.3 0 228.6 -102.4 228.6 -228.6C330 1069.4 227.7 967.1 101.4 967.1Z" class="g4_4"/>
+<path fill-rule="evenodd" d="M0 1237.5H2197.7v-22.9H0v22.9Z" class="g3_4"/>
+</g>
+<path fill-rule="evenodd" d="M461.9 670.7H810.2v1.2H461.9Z" class="g5_4"/>
+<path d="M1153.3 80.2c-23.8 0 -43 19.5 -43 43.6c0 24 19.2 43.5 43 43.5c23.7 0 43 -19.5 43 -43.5c0 -24.1 -19.3 -43.6 -43 -43.6Z" class="g6_4"/>
+<image preserveAspectRatio="none" x="1235" y="132" width="866" height="576" xlink:href="img/1.png"/>
+</svg>

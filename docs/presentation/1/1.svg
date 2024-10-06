@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 2200 1237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_1"><path d="M2034 131.9h-75.9V95H2034v36.9Z"/></clipPath>
+<clipPath id="c1_1"><path d="M-.2 1237.8V-.2H2200.3v1238Z"/></clipPath>
+<clipPath id="c2_1"><path d="M1957.9 132.1V94.8h76.3v37.3Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_1{
+fill: #FFF;
+}
+.g1_1{
+fill: none;
+stroke: #F6F6F6;
+stroke-width: 114.583;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g2_1{
+fill: none;
+stroke: #17726D;
+stroke-width: 4.583;
+stroke-linejoin: round;
+}
+.g3_1{
+fill: #EAE4D2;
+}
+.g4_1{
+fill: #17726D;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c1_1)">
+<path fill-rule="evenodd" d="M0 1237.5H2200V0H0V1237.5Z" class="g0_1"/>
+<path d="M156.4 818.1c-179.3 0 -324.7 145.5 -324.7 324.9c0 179.4 145.4 324.8 324.7 324.8c179.4 0 324.9 -145.4 324.9 -324.8C481.3 963.6 335.8 818.1 156.4 818.1Z" class="g1_1"/>
+</g>
+<path d="M129.5 1030.1h1941" class="g2_1"/>
+<path fill-rule="evenodd" d="M1583.5 147.8c-158.2 0 -286.4 128.3 -286.4 286.5c0 158.2 128.2 286.4 286.4 286.4c158.2 0 286.5 -128.2 286.5 -286.4C1870 276.1 1741.7 147.8 1583.5 147.8Z" class="g3_1"/>
+<path fill-rule="evenodd" d="M156.4 668c-14.9 0 -26.9 12.1 -26.9 26.9c0 14.9 12 27 26.9 27c14.9 0 26.9 -12.1 26.9 -27c0 -14.8 -12 -26.9 -26.9 -26.9Z" class="g4_1"/>
+<path fill-rule="evenodd" d="M1956.1 79.1H2036c19.1 0 34.5 15.3 34.5 34.3c0 19 -15.4 34.4 -34.5 34.4h-79.9c-19.1 0 -34.5 -15.4 -34.5 -34.4c0 -19 15.4 -34.3 34.5 -34.3Z" class="g4_1"/>
+<g clip-path="url(#c2_1)">
+<path clip-path="url(#c0_1)" d="M2017.8 130.5l14.9 -15.1c1 -1.1 1 -2.8 0 -3.9L2017.8 96.4c-1 -1.1 -2.7 -1.1 -3.8 0c-1 1 -1 2.7 0 3.8l10.4 10.5h-63.3c-1.5 0 -2.7 1.3 -2.7 2.7c0 1.5 1.2 2.8 2.7 2.8h63.2L2014 126.7c-.5 .5 -.8 1.2 -.8 1.9c0 .7 .3 1.4 .8 2c1.1 1 2.8 1 3.8 -.1Z" class="g0_1"/>
+</g>
+</svg>
